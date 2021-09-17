@@ -1,0 +1,10 @@
+build/*
+dist/*
+node_modules/*
+.nyc_output/*
+coverage/*
+internals/generators/*
+internals/scripts/*
+package-lock.json
+yarn.lock
+*.md
